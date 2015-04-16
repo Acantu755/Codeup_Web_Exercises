@@ -1,0 +1,64 @@
+/*------------*\
+	Global
+\*------------*/
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+h1,
+.box-wrapper{
+	margin-left:auto;
+	margin-right:auto;
+}
+h1{
+	width:50%;
+}
+.box_wrapper {
+	width:400px;
+}
+.generic_box {
+	color:white;
+	font-weight:bold;
+	width: 172px; 
+	height: 72px;
+	padding: 10px;
+	border:1px solid;
+	margin:10px;
+	border-color:black; 
+}
+
+.first {
+	background-color: red;
+}
+
+.second{
+	background-color: orange;
+	margin-left:30px;
+}
+
+.third{
+	background-color: yellow;
+	margin-left:60px;
+}
+
+.fourth{
+	background-color: green;
+	margin-left:90px;
+}
+
+.fifth{
+	background-color: blue;
+	margin-left:120px;
+}
+
+.sixth{
+	background-color: violet;
+	margin-left:150px;
+}
+
+.seventh{
+	margin-left:180px;
+}

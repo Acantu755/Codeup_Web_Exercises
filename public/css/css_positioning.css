@@ -1,0 +1,56 @@
+#body {
+
+}
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+h1{
+
+}
+.generic_box {
+	color:white;
+	font-weight:bold;
+	width: 72px; 
+	height: 72px;
+	padding: 10px;
+	border:1px solid;
+	margin:10px;
+	border-color:black;
+	float:left;
+}
+
+.row1{
+	float:left;
+}
+.clearfix{
+	clear:left;
+}
+.codeup_banner{
+}
+.first {
+	background-color: red;
+}
+
+.second{
+	background-color: orange;
+}
+
+.third{
+	background-color: yellow;
+}
+
+.fourth{
+	background-color: green;
+}
+
+.fifth{
+	background-color: blue;
+}
+
+.sixth{
+	background-color: violet;
+}

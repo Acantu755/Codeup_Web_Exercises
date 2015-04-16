@@ -1,0 +1,51 @@
+body {
+	background-image: url(http://i.imgur.com/GnqMTPa.png);
+	font-family: 'Play', sans-serif;
+	color:red;
+	margin-left:10px;
+	margin-bottom:10px;
+}
+
+h1 {
+	color:teal;
+	text-decoration: underline;
+}
+
+li {
+	list-style-type:lower-greek;
+}
+
+table{
+	width:25%;
+	border:solid;
+}
+
+th{
+	font-weight:bold;
+	text-align:center;
+	border-bottom:dotted;
+	width:50%;
+}
+
+td{
+	text-align:right;
+	border:solid;
+}
+
+a:link {
+	color:pink;
+	background-color:purple;
+}
+
+a:visited{
+	color:gold;
+}
+
+a:hover{
+	font-size:125%;
+}
+
+a:active{
+	font-size:300px;
+};
+

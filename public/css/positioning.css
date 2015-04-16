@@ -1,0 +1,62 @@
+body {
+
+}
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.generic_box {
+	color:white;
+	font-weight:bold;
+	width: 72px; 
+	height: 72px;
+	padding: 10px;
+	border:1px solid;
+	margin:25px;
+	border-color:black;
+	float:left;
+	position:relative;
+}
+
+.clearfix{
+	clear:left;
+
+}
+.ribbon{
+	position:fixed;
+	top:0;
+	right:0;
+}
+
+.arrow{
+	position:absolute;
+	top:-37px;
+	left:47px;
+}
+.first {
+	background-color: red;
+}
+
+.second{
+	background-color: orange;
+}
+
+.third{
+	background-color: yellow;
+}
+
+.fourth{
+	background-color: green;
+}
+
+.fifth{
+	background-color: blue;
+}
+
+.sixth{
+	background-color: violet;
+}

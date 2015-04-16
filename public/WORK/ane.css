@@ -1,0 +1,28 @@
+header {
+	font-size:20px;
+	background-color:black;
+	height:46px;
+	overflow:hidden;
+}
+
+li {
+	display:inline;
+	float:right;
+}
+
+#nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#trapezoid {
+	-webkit-transform:rotate(180deg);
+	margin-left:285px;
+	border-bottom: 50px solid black;
+	border-left: 40px solid transparent;
+	border-right: 70px solid transparent;
+	height: 0;
+	width: 180px;
+
+}
